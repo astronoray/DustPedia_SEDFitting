@@ -1,0 +1,22 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: name, datatype: string}
+# - {name: kind, datatype: string}
+# - {name: ra_deg, datatype: float64}
+# - {name: dec_deg, datatype: float64}
+# - {name: radius_arcsec, datatype: float64}
+# schema: astropy-2.0
+name kind ra_deg dec_deg radius_arcsec
+NGC4323 galaxy 185.75705 15.905498 72.0
+NGC4328 galaxy 185.833012 15.820016 72.0
+Star1 star 185.676909 15.811944 20.0
+Star2 star 185.7662839 15.7958225 20.0
+Star3 star 185.6744486 15.9032244 20.0
+VCC636 galaxy 185.838067 15.868924 30.0
+VCC619 galaxy 185.771027 15.931653 30.0
+Star4 star 185.8917866 15.8295359 50.0
+IC738A star 185.581697 15.733575 30.0
+GalaxyGroup galaxy 185.5756083 15.7994453 50.0
+Star5 star 185.6683702 15.6699594 50.0
+Star6 star 185.7158065 15.8693698 20.0
