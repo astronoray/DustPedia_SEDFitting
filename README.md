@@ -1,6 +1,8 @@
 # Multiwavelength Photometry Tutorials
 
-[![Astronoray - DustPedia_SEDFitting](https://img.shields.io/static/v1?label=Astronoray&message=DustPedia_SEDFitting&color=blue&logo=github)](https://github.com/Astronoray/DustPedia_SEDFitting "Go to GitHub repo")
+[![Astronoray - DustPedia_SEDFitting](https://img.shields.io/static/v1?label=GitHub&message=Astronoray&color=blue&logo=github)](https://github.com/Astronoray/DustPedia_SEDFitting "Go to GitHub repo")
+
+[![Python v3.12.2](https://img.shields.io/badge/Python_v3.12.2-2ea44f?logo=python&logoColor=white)](https://www.python.org/) [![dependency - Astropy v7.0.0](https://img.shields.io/badge/dependency-Astropy_v7.0.0-green?logo=python&logoColor=white)](https://www.astropy.org/) [![dependency - Astropy v7.0.0](https://img.shields.io/badge/dependency-Astroquery_v0.4.9.post1-green?logo=python&logoColor=white)](https://astroquery.readthedocs.io/en/latest/) [![dependency - Astropy v7.0.0](https://img.shields.io/badge/dependency-dust__extinction_v1.7-green?logo=python&logoColor=white)](https://dust-extinction.readthedocs.io/en/latest/) [![dependency - Astropy v7.0.0](https://img.shields.io/badge/dependency-Matplotlib_v3.9.2-green?logo=python&logoColor=white)](https://www.matplotlib.org/) [![dependency - Astropy v7.0.0](https://img.shields.io/badge/dependency-NumPy_v1.26.4-green?logo=python&logoColor=white)](https://www.numpy.org/) [![dependency - Astropy v7.0.0](https://img.shields.io/badge/dependency-Photutils_v3.0.0-green?logo=python&logoColor=white)](https://photutils.readthedocs.io/en/stable/) [![dependency - Astropy v7.0.0](https://img.shields.io/badge/dependency-SciPy_v1.13.1-green?logo=python&logoColor=white)](https://www.scipy.org/) 
 
 
 ![png](SDSS_image.png)
@@ -111,7 +113,7 @@ Run:
 conda create -n ngc4321-tutorials python=3.11
 conda activate ngc4321-tutorials
 
-conda install -c conda-forge numpy scipy matplotlib astropy, photutils astroquery dust-extinction regions jupyterlab ipykernel
+conda install -c conda-forge numpy scipy matplotlib astropy photutils astroquery dust_extinction jupyterlab ipykernel
 ```
 After this, open the notebooks and use this environment in VisualStudioCode, for example, or Jupyter Lab. 
 
